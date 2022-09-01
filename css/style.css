@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+}
+
+
+@media only screen and (max-width:600px)
+}
+
+h1{
+  background-colour: yellow;
+  color: purple;
+  text-align: center;
+}
